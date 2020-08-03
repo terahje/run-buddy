@@ -194,7 +194,7 @@ section {
     padding-bottom: 20px;
     text-align: center;
     margin: 0 auto 35px auto;
-    width: 50px;
+    width: 50%;
 }
 .primary-border {
     border-color: #fce138;
@@ -243,10 +243,6 @@ section {
     text-align: right;
 }
 
-.flex-row {
-    display: flex;
-}
-
 /*reach out styles*/
 .contact {
     background: #024e76;
@@ -278,4 +274,8 @@ section {
 }
 .contact-info a {
     color: #fce138;
+}
+
+.flex-row {
+    display: flex;
 }
